@@ -8,5 +8,5 @@ There are 3 different datasets we were given to work with:
  
  For the different envrionments, I implement 2 different reinforcement learning algorithms to solve the problems.
  * Small.csv was solved using maximum likelihood estimation combined with value iteration. It converges to optimal policy.
- * Medium.csv and Large.csv was solved using a temporal difference Q-learning and creating episodes to split the data into. It converged to a policy that performed very well in the MountainCar Environment.
+ * Medium.csv and Large.csv was solved using a temporal difference Q-learning and creating episodes to split the data. It converged to a policy that performed very well in the MountainCar Environment.
  
