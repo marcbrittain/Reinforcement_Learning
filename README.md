@@ -1,5 +1,7 @@
 # Reinforcement Learning
 
+**If this code helped you save time, help me out by clicking the star at the top!**
+
 Project from AeroE 504: Decision Making under Uncertainty. Course taught by Professor Peng Wei.
 There are 3 different datasets we were given to work with:
  *  Small.csv - Gridworld environment
